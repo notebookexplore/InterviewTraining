@@ -29,3 +29,13 @@
 | 3.  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                | Facebook  | link_list      |
 | 4.  | [Min Stack](https://leetcode.com/problems/min-stack/#/description)                                             | Google    | oop, stack     |
 | 5.  | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/#/description)         | Facebook  | tree, bst, dfs |
+
+## Day 4
+
+|     | Problem                                                                                                          | Companies        | Tags            |
+| --- | ---------------------------------------------------------------------------------------------------------------- | ---------------- | --------------- |
+| 1.  | [Task Scheduler](https://leetcode.com/problems/task-scheduler/)                                                  | Facebook         | pointer         |
+| 2.  | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/#/description)                     | Google           | string, pattern |
+| 3.  | [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/#/description) | Google           | tree, bst       |
+| 4.  | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/#/description)           | Facebook, Google | tree, oop       |
+| 5.  | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/#/description)                     | Facebook         | tree, bst, dfs  |
