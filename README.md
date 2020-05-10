@@ -37,3 +37,23 @@
 | 3.  | [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/#/description) | Google           | tree, bst       |
 | 4.  | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/#/description)           | Facebook, Google | tree, oop       |
 | 5.  | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/#/description)                     | Facebook         | tree, bst, dfs  |
+
+## Day 5
+
+|     | Problem                                                                                                          | Companies        | Tags            |
+| --- | ---------------------------------------------------------------------------------------------------------------- | ---------------- | --------------- |
+| 1.  | [Task Scheduler](https://leetcode.com/problems/task-scheduler/)                                                  | Facebook         | pointer         |
+| 2.  | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/#/description)                     | Google           | string, pattern |
+| 3.  | [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/#/description) | Google           | tree, bst       |
+| 4.  | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/#/description)           | Facebook, Google | tree, oop       |
+| 5.  | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/#/description)                     | Facebook         | tree, bst, dfs  |
+
+## Day 6
+
+|     | Problem                                                                                                                           | Companies         | Tags                        |
+| --- | --------------------------------------------------------------------------------------------------------------------------------- | ----------------- | --------------------------- |
+| 1.  | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/submissions/)                                     | Facebook          | pointer                     |
+| 2.  | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)                                                         | Facebook          | string, pattern             |
+| 3.  | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) | Facebook          | math, bst                   |
+| 4.  | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)                                             | Facebook          | oop, system_design, hashing |
+| 5.  | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                                 | Facebook, Netflix | tree, bst, dfs              |
