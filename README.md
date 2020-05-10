@@ -50,13 +50,19 @@
 
 ## Day 6
 
-|     | Problem                                                                                                                           | Companies         | Tags                        |
-| --- | --------------------------------------------------------------------------------------------------------------------------------- | ----------------- | --------------------------- |
-| 1.  | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/submissions/)                                     | Facebook          | pointer                     |
-| 2.  | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)                                                         | Facebook          | string, pattern             |
-| 3.  | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) | Facebook          | math, bst                   |
-| 4.  | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)                                             | Facebook          | oop, system_design, hashing |
-| 5.  | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                                 | Facebook, Netflix | tree, bst, dfs              |
+|     | Problem                                                                                                                           | Companies | Tags                        |
+| --- | --------------------------------------------------------------------------------------------------------------------------------- | --------- | --------------------------- |
+| 1.  | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/submissions/)                                     | Facebook  | pointer                     |
+| 2.  | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)                                                         | Facebook  | string, pattern             |
+| 3.  | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) | Facebook  | math, bst                   |
+| 4.  | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)                                             | Facebook  | oop, system_design, hashing |
 
-| 4. | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | Facebook, Google | tree, bst |
-|
+## Day 7
+
+|     | Problem                                                                    | Companies           | Tags                           |
+| --- | -------------------------------------------------------------------------- | ------------------- | ------------------------------ |
+| 1.  | [Friend Circles](https://leetcode.com/problems/friend-circles/)            | Facebook, Microsoft | graph                          |
+| 2.  | [Count and Say](https://leetcode.com/problems/count-and-say/#/description) | Facebook, Microsoft | string, pattern, math          |
+| 3.  | [LFU Cache](https://leetcode.com/problems/lfu-cache/)                      | Facebook, Google    | math, bst                      |
+| 4.  | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)    | Facebook, Google    | tree, bst                      |
+| 5.  | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)        | Facebook, Google    | recursion, dynamic_programming |
