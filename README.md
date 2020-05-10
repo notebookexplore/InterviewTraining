@@ -1,14 +1,12 @@
-# Daily Leetcode Reps
-
 ## Day 1
 
-|     | Problem                                                                                                            | Companies | Tags                  |
-| --- | ------------------------------------------------------------------------------------------------------------------ | --------- | --------------------- |
-| 1.  | [Two Sum](https://leetcode.com/problems/two-sum/#/description)                                                     | Facebook  | math                  |
-| 2.  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/#/description)                                 | Facebook  | counting              |
-| 3.  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/#/description)                             | Facebook  | link_list             |
-| 4.  | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/#/description) | Facebook  | tree, bst, bfs        |
-| 5.  | [First Bad Version](https://leetcode.com/problems/first-bad-version/#/description)                                 | Facebook  | search, binary_search |
+|     | Problem                                                                                                            | Companies        | Tags                  |
+| --- | ------------------------------------------------------------------------------------------------------------------ | ---------------- | --------------------- |
+| 1.  | [Two Sum](https://leetcode.com/problems/two-sum/#/description)                                                     | Facebook         | math                  |
+| 2.  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/#/description)                                 | Facebook, Google | counting              |
+| 3.  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/#/description)                             | Facebook         | link_list             |
+| 4.  | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/#/description) | Facebook         | tree, bst, bfs        |
+| 5.  | [First Bad Version](https://leetcode.com/problems/first-bad-version/#/description)                                 | Facebook         | search, binary_search |
 
 ## Day 2
 
@@ -22,13 +20,13 @@
 
 ## Day 3
 
-|     | Problem                                                                                                        | Companies | Tags           |
-| --- | -------------------------------------------------------------------------------------------------------------- | --------- | -------------- |
-| 1.  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/#/description) | Facebook  | pointer        |
-| 2.  | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/#/description)                             | Facebook  | tree, bst      |
-| 3.  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                | Facebook  | link_list      |
-| 4.  | [Min Stack](https://leetcode.com/problems/min-stack/#/description)                                             | Google    | oop, stack     |
-| 5.  | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/#/description)         | Facebook  | tree, bst, dfs |
+|     | Problem                                                                                                        | Companies        | Tags           |
+| --- | -------------------------------------------------------------------------------------------------------------- | ---------------- | -------------- |
+| 1.  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/#/description) | Facebook, Google | pointer        |
+| 2.  | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/#/description)                             | Facebook, Google | tree, bst      |
+| 3.  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                | Facebook         | link_list      |
+| 4.  | [Min Stack](https://leetcode.com/problems/min-stack/#/description)                                             | Google           | oop, stack     |
+| 5.  | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/#/description)         | Facebook, Google | tree, bst, dfs |
 
 ## Day 4
 
