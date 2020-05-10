@@ -19,3 +19,13 @@
 | 3.  | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/#/description)                                             | Facebook  | math            |
 | 4.  | [Implement strStr()](https://leetcode.com/problems/implement-strstr/#/description)                                                           | Facebook  | string, search  |
 | 5.  | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/#/description) | Facebook  | tree, bst,dfs   |
+
+## Day 3
+
+|     | Problem                                                                                                        | Companies | Tags           |
+| --- | -------------------------------------------------------------------------------------------------------------- | --------- | -------------- |
+| 1.  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/#/description) | Facebook  | pointer        |
+| 2.  | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/#/description)                             | Facebook  | tree, bst      |
+| 3.  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                | Facebook  | link_list      |
+| 4.  | [Min Stack](https://leetcode.com/problems/min-stack/#/description)                                             | Google    | oop, stack     |
+| 5.  | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/#/description)         | Facebook  | tree, bst, dfs |
